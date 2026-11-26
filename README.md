@@ -30,8 +30,6 @@
 
 ---
 
-<div align="left">
-
 ## 👨‍💻 About Me
 
 > **Hi! I'm Suryanka Marick, and I love dogs, design, and coding.** On the art side, I enjoy experimenting with everything from digital illustrations to hand-painted canvases. For coding, I love exploring new technologies to build fun, meaningful projects. When I'm not busy painting or staring at lines of code, you can usually find me hanging out with dogs, hunting for fresh design inspiration, or picking up a new creative hobby. I believe the best projects happen when curiosity meets a little bit of fun.
@@ -71,7 +69,7 @@ My name is Suryanka Marick, and I am a Data Science graduate student, full-stack
 * **Tech Stack:** `Python` `TensorFlow / Keras` `MediaPipe` `OpenCV` `NumPy`
 * **Highlights:**
   * Trained a 4-layer CNN (1.2M parameters) achieving **94.2% accuracy** across 29 ASL classes on a 490K-sample dataset.
-  * Deployed confidence-aware sliding-window aggregation ($N=15$, 680ms buffer), cutting prediction flicker from **32% to 7% (78% improvement)** with zero retraining.
+  * Deployed confidence-aware sliding-window aggregation (N = 15, 680ms buffer), cutting prediction flicker from **32% to 7% (78% improvement)** with zero retraining.
   * Runs smoothly at **22 FPS** on CPU-only hardware (Intel Core i5, 8 GB RAM).
 
 ### 4. 🎨 Graphic Design & Digital Illustration (`2026`)
@@ -127,22 +125,24 @@ My name is Suryanka Marick, and I am a Data Science graduate student, full-stack
 * **Hindi:** Bilingual / Fluent
 * **Hungarian:** Basic *(Actively Learning)*
 
-</div>
-
 ---
 
 <div align="center">
 
-## 📊 GitHub Activity
+<h2>📊 GitHub Activity</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SuryankaMarick&show_icons=true&bg_color=0A0A0A&title_color=E11D48&text_color=F8FAFC&icon_color=E11D48&border_color=E11D48" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryankaMarick&layout=compact&bg_color=0A0A0A&title_color=E11D48&text_color=F8FAFC&border_color=E11D48" height="165" alt="Top Languages" />
 
----
+<hr/>
 
-### 🤝 Let's Work Together!
+<h3>🤝 Let's Work Together!</h3>
 
-📬 **Email:** [suryankamarick20@gmail.com](mailto:suryankamarick20@gmail.com) &nbsp;|&nbsp; 🎨 **Canva Portfolio:** [canva.link/4kj9nwwinz4zx5j](https://canva.link/4kj9nwwinz4zx5j) &nbsp;|&nbsp; 📸 **Instagram:** [@_____suryanka_____](https://instagram.com/_____suryanka_____)
+<p>
+  📬 <b>Email:</b> <a href="mailto:suryankamarick20@gmail.com">suryankamarick20@gmail.com</a> &nbsp;|&nbsp;
+  🎨 <b>Canva Portfolio:</b> <a href="https://canva.link/4kj9nwwinz4zx5j">canva.link/4kj9nwwinz4zx5j</a> &nbsp;|&nbsp;
+  📸 <b>Instagram:</b> <a href="https://instagram.com/_____suryanka_____">@_____suryanka_____</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:0A0A0A&height=100&section=footer" width="100%" />
 
